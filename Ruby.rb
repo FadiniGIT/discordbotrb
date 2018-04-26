@@ -1,3 +1,7 @@
+# => Ruby.rb
+# => Simple discord bot named Ruby written in ruby
+# => Author: Fadini
+# => 4/23/2018
 #!/usr/bin/env ruby
 
 require 'discordrb'
